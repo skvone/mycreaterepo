@@ -7,4 +7,4 @@ I strive to apply best practices in my work, including both end-to-end and integ
 
 Thank you for visiting my profile, and I hope you find my work informative and useful.
 
-<img src="./icons/js_icon.svg" width="50" height="50" alt="JS">
+<img src="./icons/js_icon.svg" width="50" height="50" alt="JS"> <img src="./icons/cypress_icon.svg" width="50" height="50" alt="JS">
