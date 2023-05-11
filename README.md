@@ -8,5 +8,5 @@ I strive to apply best practices in my work, including both end-to-end and integ
 Thank you for visiting my profile, and I hope you find my work informative and useful.
 
 
-<img src="./icons/folder_cypress.svg" width="50" height="50" alt="Cypress">
+
 
